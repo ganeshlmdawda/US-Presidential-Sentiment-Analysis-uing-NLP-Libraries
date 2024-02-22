@@ -14,6 +14,7 @@ This project aims to perform sentiment analysis on a dataset obtained from Kaggl
 The dataset used in this project is obtained from Kaggle. It consists of Tweets collected, using the Twitter API statuses_lookup and snsscrape for keywords.
 
 ## Files
+The dataset files are not included in this repository due to their large size. However, you can obtain the dataset from Kaggle and mount it into the project directory. Ensure the dataset is in CSV format and named appropriately.
 - `sentiment_analysis.py`: The main script for sentiment analysis.
 - `hashtag_joebiden.csv`: Consists of tweets with keywords #Biden and #JoeBiden.
 - `hashtag_donaldtrump.csv`: Consists of tweets with keywords #Trump and #DonaldTrump.
